@@ -16,3 +16,5 @@ print(f"\nO percentual de aumento para seu salário é:{percentual}%")
 print(f"Salário antes do reajuste era R${salario:.2f}")
 print(f"Valor incrementado ao novo salário R${salarioANTERIOR:.2f}")
 print(f"Seu salário atual é de R${salarioNOVO:.2f}")
+
+
