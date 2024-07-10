@@ -1,4 +1,4 @@
-salario = float(input("Informe seu salário R$: "))
+salario = float(input("Informe seu salário R$:"))
 
 if salario <= 280:
         percentual = 20
