@@ -1,3 +1,10 @@
+#Projetos de Lógica de Programação com Python 7. Universidade e Cursos
+#- Descrição: Uma universidade oferece vários cursos. Cada
+#curso é oferecido por uma única universidade.
+# - Relação: Uma universidade -> Muitos cursos
+#FAP - BackEnd Python - Projeto com Programação Estruturada
+
+
 import os
 import time
 
